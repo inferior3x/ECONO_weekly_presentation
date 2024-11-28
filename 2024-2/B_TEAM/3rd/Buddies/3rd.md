@@ -1,2 +1,1 @@
-https://www.figma.com/deck/RS3PwhRmNHOU2PuAIdkRsK/2024-2-%EC%A3%BC%EA%B0%84%EB%B0%9C%ED%91%9C-%5B%EB%AA%85%EB%8D%95%5D?node-id=1-237&node-type=slide&t=tgmZMgd0DgYBv2rq-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
-
+https://www.figma.com/proto/1cJbTn0V7oiJtyQzqDQZck/%EC%A3%BC%EA%B0%84-%EB%B0%9C%ED%91%9C?page-id=226%3A1012&node-id=226-1014&node-type=canvas&viewport=245%2C286%2C0.07&t=z0PxxlqsgKBPTxor-1&scaling=scale-down&content-scaling=fixed
