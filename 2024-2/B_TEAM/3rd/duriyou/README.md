@@ -1,0 +1,1 @@
+https://www.figma.com/deck/XAUb0Y2WNxSnW02DFV7TeU/Econovation_DuriYou?node-id=393-483&node-type=slide&viewport=-50266%2C-1532%2C1.01&t=rJ0HdIIc2OzbfsT0-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
